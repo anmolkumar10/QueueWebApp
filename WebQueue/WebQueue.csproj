@@ -73,8 +73,6 @@
     <Content Include="bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml" />
     <Content Include="bin\QueueLibrary.dll" />
     <Content Include="bin\QueueLibrary.pdb" />
-    <Content Include="bin\QueueWebApp.dll" />
-    <Content Include="bin\QueueWebApp.pdb" />
     <Content Include="bin\WebQueue.dll" />
     <Content Include="bin\WebQueue.pdb" />
     <Content Include="obj\Debug\QueueWebApp.csproj.FileListAbsolute.txt" />
@@ -84,7 +82,6 @@
     <Content Include="obj\Debug\WebQueue.dll" />
     <Content Include="obj\Debug\WebQueue.pdb" />
     <Content Include="packages.config" />
-    <Content Include="bin\QueueWebApp.dll.config" />
     <Content Include="bin\WebQueue.dll.config" />
     <Content Include="obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
     <Content Include="obj\Debug\QueueWebApp.csprojResolveAssemblyReference.cache" />
