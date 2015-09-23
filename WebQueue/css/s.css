@@ -1,0 +1,28 @@
+﻿
+
+
+body {
+   
+
+}
+
+h2{
+    font-family: Helvetica, sans-serif;
+    font-weight:400;
+    text-shadow: 4px 4px 3px rgba(0,0,0,0.1);
+    letter-spacing: 2px;
+}
+
+.q{
+
+    margin-left:5px;
+    margin-right:5px;
+    display:inline-block;
+
+}
+
+.eq{
+    font-size:1em;
+}
+
+
